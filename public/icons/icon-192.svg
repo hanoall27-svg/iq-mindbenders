@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="#F59E0B"/>
+  <circle cx="96" cy="96" r="70" fill="#FFFDF9"/>
+  <!-- Cute Sesame Rabbit Emoji / Character -->
+  <text x="96" y="118" font-size="76" text-anchor="middle" font-family="sans-serif">🐰</text>
+  <circle cx="140" cy="52" r="16" fill="#10B981"/>
+  <text x="140" y="58" font-size="16" text-anchor="middle" fill="#FFFFFF" font-weight="bold">IQ</text>
+</svg>

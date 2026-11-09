@@ -1,0 +1,6 @@
+{
+  "name": "IQ Mindbenders Puzzles",
+  "description": "موسوعة ألغاز واختبارات الذكاء المترجمة والمصنفة من كتاب IQ Mindbenders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
